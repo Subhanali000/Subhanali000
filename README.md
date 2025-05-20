@@ -4,7 +4,8 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Subhan Ali)  
-📷 Instagram: https://www.instagram.com/subhan_al1/
+[📷 Instagram: https://www.instagram.com/subhan_al1/]
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Subhan Ali](https://www.linkedin.com/in/subhan-ali-b83bb52b2/))  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white) subhanali.ali000777@gmail.com]
 
